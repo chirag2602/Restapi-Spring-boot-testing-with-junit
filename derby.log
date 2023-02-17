@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Feb 10 23:12:48 IST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0186-3c6c-2c8f-000001f65148 
+on database directory memory:C:\Users\CHIRAG\eclipse-workspace\junit-rest-api-example\testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/CHIRAG/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.2+7-27
+user.dir=C:\Users\CHIRAG\eclipse-workspace\junit-rest-api-example
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
